@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redsspeaker.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="700" height="468" frameX="-2" frameY="0" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0001" x="700" y="0" width="704" height="460" frameX="0" frameY="-8" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0002" x="0" y="468" width="704" height="465" frameX="0" frameY="-3" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0003" x="704" y="468" width="700" height="467" frameX="-2" frameY="-1" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0004" x="0" y="935" width="700" height="468" frameX="-2" frameY="0" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0005" x="700" y="935" width="700" height="468" frameX="-2" frameY="0" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0006" x="0" y="1403" width="700" height="468" frameX="-2" frameY="0" frameWidth="704" frameHeight="468"/>
+	<SubTexture name="idle0007" x="0" y="0" width="700" height="468" frameX="-2" frameY="0" frameWidth="704" frameHeight="468"/>
+</TextureAtlas>

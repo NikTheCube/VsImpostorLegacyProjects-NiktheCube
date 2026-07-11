@@ -1,0 +1,74 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				7,
+				-176
+			],
+			"anim": "danceLeft",
+			"fps": 16,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				7,
+				-176
+			],
+			"anim": "danceRight",
+			"fps": 16,
+			"name": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/redsspeaker",
+	"position": [
+		0,
+		0
+	],
+	"dance_every": 1,
+	"gameover_intial_sound": null,
+	"flags": {
+		"lightsDownSpeaker": true
+	},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "oldoldred",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": false,
+	"healthbar_colour": -65536,
+	"camera_position": [
+		-100,
+		97
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

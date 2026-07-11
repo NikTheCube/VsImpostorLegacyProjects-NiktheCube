@@ -1,0 +1,152 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				-118,
+				-104
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"flipX": false,
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [
+				-118,
+				-106
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-121,
+				-220
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"flipX": false,
+			"indices": [],
+			"name": "dmiss"
+		},
+		{
+			"offsets": [
+				-121,
+				-220
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-110,
+				-199
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"flipX": false,
+			"indices": [],
+			"name": "lmiss"
+		},
+		{
+			"offsets": [
+				-111,
+				-201
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-101,
+				-208
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"flipX": false,
+			"indices": [],
+			"name": "rmiss"
+		},
+		{
+			"offsets": [
+				-100,
+				-208
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-106,
+				-192
+			],
+			"flipY": false,
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/playabletomongus",
+	"position": [
+		0,
+		260
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {
+		"variants": {
+			"dark": "bf-dark",
+			"falling": "bf-fall"
+		}
+	},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "v3tomongusplayable",
+	"afterimages": true,
+	"gameover_character": null,
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -39056,
+	"camera_position": [
+		-200,
+		300
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 6,
+	"scale": 1.3,
+	"_editor_isPlayer": true
+}
