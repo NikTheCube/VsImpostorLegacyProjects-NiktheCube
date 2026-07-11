@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dashpostor.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle 10000" x="0" y="0" width="757" height="446" frameX="-92" frameY="-63" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="idle 10001" x="757" y="0" width="805" height="435" frameX="-79" frameY="-68" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="idle 10002" x="1562" y="0" width="878" height="379" frameX="-22" frameY="-92" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="idle 10003" x="2440" y="0" width="909" height="367" frameX="-6" frameY="-104" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="idle 10004" x="3349" y="0" width="747" height="416" frameX="-114" frameY="-78" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="idle 10005" x="0" y="446" width="740" height="453" frameX="-102" frameY="-61" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="idle 10006" x="740" y="446" width="763" height="446" frameX="-86" frameY="-63" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="left 10000" x="1503" y="446" width="860" height="400" frameX="0" frameY="-63" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="left 10001" x="2363" y="446" width="855" height="400" frameX="-12" frameY="-63" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="down 10000" x="3218" y="446" width="849" height="363" frameX="-12" frameY="-109" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="down 10001" x="0" y="899" width="831" height="341" frameX="-38" frameY="-131" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="up 10000" x="831" y="899" width="641" height="469" frameX="-190" frameY="0" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="up 10001" x="1472" y="899" width="638" height="445" frameX="-197" frameY="-24" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="right 10000" x="2110" y="899" width="665" height="400" frameX="-136" frameY="-63" frameWidth="915" frameHeight="514"/>
+	<SubTexture name="right 10001" x="2775" y="899" width="646" height="400" frameX="-133" frameY="-63" frameWidth="915" frameHeight="514"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="amogus.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle1 instancia 10000" x="0" y="0" width="131" height="126" frameX="0" frameY="-8" frameWidth="131" frameHeight="134"/>
+	<SubTexture name="idle1 instancia 10001" x="0" y="0" width="131" height="126" frameX="0" frameY="-8" frameWidth="131" frameHeight="134"/>
+	<SubTexture name="idle1 instancia 10002" x="131" y="0" width="131" height="133" frameX="0" frameY="-1" frameWidth="131" frameHeight="134"/>
+	<SubTexture name="idle1 instancia 10003" x="131" y="0" width="131" height="133" frameX="0" frameY="-1" frameWidth="131" frameHeight="134"/>
+	<SubTexture name="idle1 instancia 10004" x="262" y="0" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10005" x="262" y="0" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10006" x="0" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10007" x="131" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10008" x="131" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10009" x="131" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10010" x="131" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10011" x="131" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10012" x="131" y="134" width="131" height="134"/>
+	<SubTexture name="idle1 instancia 10013" x="131" y="134" width="131" height="134"/>
+</TextureAtlas>
